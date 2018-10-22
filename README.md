@@ -1,4 +1,4 @@
-# Example of Cisco Spark Integration (OAuth flow) in NodeJS
+# My Example of Cisco Spark Integration (OAuth flow) in NodeJS
 
 This Awesome Spark Integration example illustrates an OAuth Grant flow at the end of which the Spark User who granted permission will see his full name displayed.
 
